@@ -1,6 +1,6 @@
 [submodule "Software/android_app"]
 	path = Software/android_app
 	url = https://github.com/acord-robotics/stellarios
-[submodule "Software/stellarios"]
-	path = Software/stellarios
+[submodule "Software/rover_code"]
+	path = Software/rover_code
 	url = https://github.com/acord-robotics/stellarios
