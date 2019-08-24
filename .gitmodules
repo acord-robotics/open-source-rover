@@ -3,4 +3,4 @@
 	url = https://github.com/acord-robotics/stellarios
 [submodule "Software/rover_code"]
 	path = Software/rover_code
-	url = https://github.com/acord-robotics/stellarios
+	path = Software/rover_code
