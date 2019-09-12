@@ -1,3 +1,6 @@
+# ACORD-Robotics/Open-Source-Rover
+This repository is a fork of the repository from NASA-JPL on Github. The Open Source Rover is one of the featured robots, or droids, created by ACORD as part of the S2-RD project within Stellarios, the software suite by ACORD
+
 # JPL Open Source Rover Project
 The JPL Open Source Rover is an open source, build it yourself, scaled down version of the 6 wheel rover design that JPL uses to explore the surface of Mars. The Open Source Rover is designed almost entirely out of consumer off the shelf (COTS) parts. This project is intended to be a teaching and learning experience for those who want to get involved in mechanical engineering, software, electronics, or robotics.
 
